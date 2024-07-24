@@ -5,7 +5,6 @@ This repository aims to document the undocumented abilities of all of Jamf's pro
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
 - [Product Documentation](#product-documentation)
   - [Jamf Pro API](#jamf-pro-api)
   - [Classic API](#classic-api)
@@ -31,21 +30,6 @@ For the most up-to-date and accurate information, always refer to the official d
 - [Jamf Protect API Documentation](https://learn.jamf.com/en-US/bundle/jamf-protect-documentation/page/Jamf_Protect_API.html)
 - [Jamf Title Editor API Reference](https://developer.jamf.com/title-editor/reference/gettokenclaims-1)
 - [Jamf Security API Reference](https://developer.jamf.com/jamf-security/reference/login)
-
-## Getting Started
-
-To get started with this documentation:
-
-1. **Clone the repository:**
-
-    ```sh
-    git clone https://github.com/your-username/jamf-undocumented-compendium.git
-    cd jamf-undocumented-compendium
-    ```
-
-2. **Explore the documentation:**
-
-    Browse through the directories and markdown files to find the information you need.
 
 ## Product Documentation
 
@@ -92,60 +76,4 @@ The Jamf Protect API provides endpoints for managing and monitoring security thr
 
 ## Jamf Binary
 
-This section documents the undocumented features of the Jamf Binary, providing practical examples and best practices.
-
-## Jamf Database
-
-This section covers undocumented aspects related to the Jamf Database, particularly useful for on-premises deployments.
-
-## Tools and Resources
-
-This section compiles useful open-source tools and resources for interacting with the Jamf APIs, such as:
-
-- [Jamf Pro SDK for Python](https://github.com/macadmins/jamf-pro-sdk-python)
-- [macOS CPE Resources - Jamf API Recipes](https://github.com/jp-cpe/macOS-cpe-resources/tree/main/jamf%20api%20recipes)
-
-## Contributing
-
-We welcome contributions from the community to enhance and expand this documentation. To contribute:
-
-1. **Fork the repository:**
-
-    Click the "Fork" button at the top right of this page.
-
-2. **Create a new branch:**
-
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-
-3. **Make your changes and commit them:**
-
-    ```sh
-    git commit -m "Add detailed explanation for API endpoint XYZ"
-    ```
-
-4. **Push your changes to your forked repository:**
-
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-
-5. **Create a pull request:**
-
-    Open a pull request to the `main` branch of this repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-- Special thanks to the Jamf community for their continuous support and contributions.
-- This project would not be possible without the extensive API work done by Jamf.
-
----
-
-For any questions or suggestions, feel free to open an issue or contact us directly.
-
-Happy coding!
+This section documents the undocumented features of the Jamf​⬤
